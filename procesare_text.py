@@ -29,14 +29,6 @@ def main() :
         print("\t dupa primul pas de procesare - scoatem semnele de punctuatie")
         print(text_after_first_clean)
 
-        selected_mode = menu()
-        if (selected_mode == 1) :
-            
-        elif (selected_mode == 2) :
-
-        
-
-
 
 if __name__ == "__main__":
     main()  
